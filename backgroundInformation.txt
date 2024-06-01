@@ -1,0 +1,54 @@
+#This is the template that you shall use for providing your information to AI for processing. 
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Professional Summary:
+-Highly motivated software engineer with 5+ years of experience in developing and maintaining web applications. Proven expertise in Java, Spring Boot, and React. Passionate about creating user-friendly, scalable solutions.
+
+Work Experience:
+-Acme Tech Solutions:
+    -Senior Software Engineer: (Jan 2022 - Present)
+    -Key Responsibilities: Led development of new features, implemented RESTful APIs, optimized database performance, mentored junior developers.
+    -Key Achievements: Increased application response time by 20%, reduced server downtime by 15%, successfully delivered a major project ahead of schedule.
+-XYZ Corporation:
+    -Software Engineer: (June 2019 - Dec 2021)
+    -Key Responsibilities: Developed and maintained front-end components, collaborated with cross-functional teams, participated in code reviews.
+    -Key Achievements: Implemented a new user interface that improved customer satisfaction ratings by 10%, streamlined the development process, resulting in faster delivery of features.
+
+Skills:
+-Technical Skills: Java, Spring Boot, React, JavaScript, HTML, CSS, SQL, Git
+-Soft Skills: Communication, problem-solving, teamwork, adaptability, time management
+-Tools: Slack, Notion, Jira, Github, PagerDuty, AWS
+
+Education:
+-Bachelor's Degree in Applied Computer Science:
+    -Insititution: University of Technology
+    -Graduation Year: 2019
+    -Relevant Coursework: Algorithms, Data Structures, Software Engineering, Web Development
+-Master's Degree in CyberSecurity:
+    -Insititution: University of Technology
+    -Graduation Year: 2022
+    -Relevant Coursework: Algorithms, Data Structures, Software Engineering, Web Development
+
+Certifications:
+-Certification 1:
+    -Certifying body: Oracle
+    -Certified: 2023
+-Certification 2:
+    -Certifying body: Google
+    -Certified: 2024
+
+Projects:
+-Personal Portfolio Website:
+    -Description: Developed a personal portfolio website to showcase my skills and projects.
+    -Technologies Used: React, JavaScript, HTML, CSS
+    -Key Contributions: Designed and implemented the user interface, integrated a blog section, optimized for mobile responsiveness.
+-Project 2:
+    -Description: Optmized for mobile responsive content and the user interface
+    -Technologies Used: React, JavaScript, HTML, CSS
+    -Key Contributions: Designed and implemented the user interface, integrated a blog section, optimized for mobile responsive content and the user interface
+
+Additional Information:
+Hobbies & Interests: Open-source contributions, technology blogs, hiking, playing guitar
+Location: Nairobi, Kenya
+
