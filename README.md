@@ -1,4 +1,5 @@
 Awesome Tech Career Prompts ⚡
+
 This repository is a treasure trove of carefully crafted prompts designed to empower both tech professionals and recruiters throughout the career journey. Whether you're a developer seeking a new role, a seasoned engineer aiming for a promotion, or a recruiter looking to attract top talent, these prompts are your secret weapon.
 
 🎯 What's Inside?
@@ -15,6 +16,7 @@ Inside this repository, you'll discover a collection of prompts covering a wide 
     -Personal Branding: Establish a strong personal brand that showcases your expertise and attracts opportunities.
     -Talent Sourcing Strategies: (For recruiters) Develop effective strategies for finding and attracting top tech talent.
     -Interviewing Techniques: (For recruiters) Enhance your interviewing skills to identify and select the best candidates.
+    
 Each prompt is meticulously designed to:
     -Provide clear instructions: Guide you through a step-by-step process.
     -Elicit relevant information: Ask specific questions to gather the necessary details.
