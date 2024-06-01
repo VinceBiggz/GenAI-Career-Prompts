@@ -1,4 +1,4 @@
-Awesome Tech Career Prompts ⚡ \b
+Awesome Tech Career Prompts ⚡
 This repository is a treasure trove of carefully crafted prompts designed to empower both tech professionals and recruiters throughout the career journey. Whether you're a developer seeking a new role, a seasoned engineer aiming for a promotion, or a recruiter looking to attract top talent, these prompts are your secret weapon.
 
 🎯 What's Inside?
